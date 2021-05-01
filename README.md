@@ -1,5 +1,5 @@
 # DoUCMe
-This leverages the NetUserAdd Win32 API to create a new machine account. This is done by setting the usri1_priv of the USER_INFO_1 type to 0x1000. 
+This leverages the NetUserAdd Win32 API to create a new computer account. This is done by setting the usri1_priv of the USER_INFO_1 type to 0x1000. 
 
 The primary goal is to avoid the normal detection of new user created events (4720).
 
