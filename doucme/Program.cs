@@ -1,4 +1,8 @@
-﻿using System;
+// Written by Ben0xA
+// Enjoy the code. Please remember to attribute!
+// The world needs more Hugging!
+
+using System;
 using System.DirectoryServices.AccountManagement;
 using System.Runtime.InteropServices;
 
